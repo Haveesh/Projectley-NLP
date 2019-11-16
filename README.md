@@ -12,3 +12,9 @@ Seedly scraping
 $ cd dataset
 $ python wget_script.py
 ```
+
+
+Links to the dataset directories that have been used.
+
+data: https://drive.google.com/open?id=1XVTxPIKAJvZ5CM-fiVPzbP4JN2J6ifXS
+data_seedly: https://drive.google.com/open?id=17_ndRp0y8ckevTfNiu7hPpuIAskoFIia
